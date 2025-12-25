@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/QobuzDL/Qobuz-DL.git
+git clone https://github.com/jorgev259/Qobuz-DL.git
 ```
 
 ### 2. Navigate to the project directory
@@ -65,7 +65,7 @@ npm run dev
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/QobuzDL/Qobuz-DL.git
+git clone https://github.com/jorgev259/Qobuz-DL.git
 ```
 
 ### 2. Navigate to the project directory

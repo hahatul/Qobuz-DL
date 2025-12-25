@@ -18,7 +18,7 @@ export default function GithubButton() {
           </a>
         </DropdownMenuItem>
         <DropdownMenuItem>
-          <a href='https://lavaforge.org/ChitoWarlock/Qobuz-DL' target='_blank' rel='noopener noreferrer'>
+          <a href='https://github.com/jorgev259/Qobuz-DL' target='_blank' rel='noopener noreferrer'>
             Squid.WTF Fork
           </a>
         </DropdownMenuItem>
